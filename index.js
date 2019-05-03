@@ -4,7 +4,6 @@ const App = {
   // need to know these before we can upload
   version: require('./package.json').version,
   platformVersion: require('zapier-platform-core').version,
-  
 
   // beforeRequest & afterResponse are optional hooks into the provided HTTP client
   beforeRequest: [
