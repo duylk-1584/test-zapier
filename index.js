@@ -11,6 +11,7 @@ const App = {
   ],
 
   afterResponse: [
+    
   ],
 
   // If you want to define optional resources to simplify creation of triggers, searches, creates - do that here!
